@@ -1,5 +1,3 @@
-#  @MrMNTG @MusammilN
-#please give credits https://github.com/MN-BOTS/ShobanaFilterBot
 import logging
 import logging.config
 import os
