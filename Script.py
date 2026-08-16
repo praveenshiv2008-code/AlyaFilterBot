@@ -80,12 +80,12 @@ Each help page contains a short list for easy reading.
 • Auto-update commands: /setupchat /movieupdates /getdlink /sendupnow /getlist"""
     ]
     ABOUT_TXT = """<b>
-◎ Cʀᴇᴀᴛᴏʀ: <a href=https://github.com/mntgxo> MN - TG</a>
+◎ Cʀᴇᴀᴛᴏʀ: <a href=t.me/PrimeCoreHQ> Prime - TG</a>
 ◎ Lᴀɴɢᴜᴀɢᴇ: Pʏᴛʜᴏɴ 3
 ◎ Dᴀᴛᴀ Bᴀsᴇ: Mᴏɴɢᴏ DB
 ◎ Bᴏᴛ Sᴇʀᴠᴇʀ: KoYeb</b>"""
     SOURCE_TXT = """<b>NOTE:</b>
-- Shobana Filter Bot  is a open source project. 
+- Alya Filter Bot  is a open source project. 
 - Source - <ahref=https://github.com/mn-bots/ShobanaFilterBot>Click Here to get source code</a>
 
 <b>DEVS:</b>
